@@ -18,3 +18,6 @@ if ( arg() ) {
 }
 
 print get_page();
+
+//--Alex: I don't know wtf is going on
+print "So on arg(), it tells you what line in what file.  Error catch?<br><br>p.s. eric smells.";

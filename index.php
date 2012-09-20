@@ -4,7 +4,8 @@
   The point of this project is just practice and nothing else. 
   I took parts and ideas from other projects and creating something 
   for my self to play with.
-  
+
+	CHange from anoterh comptuer  
 */
 require "config.php";
 require "bootstrap.php";
